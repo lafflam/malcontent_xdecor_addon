@@ -1,6 +1,9 @@
 # malcontent_xdecor_addon
 A companion mod, compatible with X-Decor and X-Decor-libre, that aims to add elements that Malfal considered missing.
 
-Additions:
+# 0.1.0
+[DEPENDS] default, doors
 
-Storage barrel based on the combination of the decorative barrel and storage cabinet
+[OPTIONAL_DEPENDS] tt, xdecor
+
+[ADDED] Storage barrel based on the combination of the decorative barrel and storage cabinet
